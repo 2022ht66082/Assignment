@@ -1,1 +1,1 @@
-merge file in development branch
+merge conflict1
